@@ -2,6 +2,8 @@
 ## Todo 앱을 JSDoc 으로 문서화하는 과제
 <br>
 
+배포링크 : https://licors.github.io/wanted-pre-onboarding-challenge-fe-2/
+
 ### 필수 요구사항
 
 > 아래의 Todo 앱 요구사항을 참고하여
